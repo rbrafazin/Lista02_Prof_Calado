@@ -18,7 +18,7 @@ public class estaçaoDoAno {
         } else if (mes == 4) {
             System.out.print("Mês: Abril - Estação Outono");
         } else if (mes == 5) {
-            System.out.print("Mês: Maior - Estação: Outono");
+            System.out.print("Mês: Maio - Estação: Outono");
         } else if (mes == 6) {
             System.out.print("Mês: Junho - Estação: Outono");
         } else if (mes == 7) {
