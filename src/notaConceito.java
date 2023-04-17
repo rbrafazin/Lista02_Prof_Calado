@@ -16,8 +16,10 @@ public class notaConceito {
             System.out.println("Regular");
         } else if (nota >= 65 && nota <= 84) {
             System.out.println("Bom");
-        } else {
+        } else if (nota >= 85 && nota <= 100) {
             System.out.println("Ótimo!");
+        } else {
+            System.out.print("Nota inválida.");
         }
     }
 }
