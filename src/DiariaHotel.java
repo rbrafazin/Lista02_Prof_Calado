@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class diariaHotel {
+public class DiariaHotel {
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);
