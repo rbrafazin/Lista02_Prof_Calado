@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class notaConceito {
+public class NotaConceito {
 
     public static void main(String[] args) throws Exception {
 
