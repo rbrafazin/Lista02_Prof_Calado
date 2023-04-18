@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class numeroInteiro {
+public class NumeroInteiro {
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);
