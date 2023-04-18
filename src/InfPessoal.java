@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class infPessoal {
+public class InfPessoal {
 
     public static void main(String[] args) throws Exception {
 
